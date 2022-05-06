@@ -1,9 +1,0 @@
-"Phrases"
-{
-   "ClearChat"
-	{
-		"#format"		"{1:N}"
-		"tr"		"Yönetici '{1}' Sohbeti Temizledi!"
-		"en"        	"Administrator '{1}' cleared chat."
-	}
-}
